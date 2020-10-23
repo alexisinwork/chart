@@ -61,7 +61,7 @@ const App = () => {
           : sourceValues.includes(d.Datasource) &&
               selectedCampaign === d.Campaign
       )
-      
+
       setFilteredData(filteredCampaigns)
     }
   }, [selectedCampaign, inputSources, campaigns, data])
@@ -92,7 +92,7 @@ const App = () => {
 
       <div className="home">
         <div className="filters">
-          <Select 
+          <Select
             options={sources}
             onChange={handleInputSources}
             isMulti
