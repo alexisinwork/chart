@@ -1,9 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Demo
-
-[Demo](https://peaceful-clarke-3cc3d9.netlify.app/)
-
 ## Available Scripts
 
 In the project directory, you can run:
