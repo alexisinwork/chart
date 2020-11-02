@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react'
+import React from 'react'
 import { ParsedCsv } from '../utils/fetchCsv'
 import { LineChart, XAxis, YAxis , Tooltip, CartesianGrid, Line } from 'recharts'
 
